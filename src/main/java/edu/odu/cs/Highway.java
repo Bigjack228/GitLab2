@@ -40,7 +40,7 @@ public class Highway {
     System.out.printf("Not covered: %7.1f%n", uncovered);
     double pct = 100.0 * ((xMax - xMin) - uncovered) / (xMax - xMin);
     System.out.printf("Percentage covered: %5.1f%%%n", pct);
-    input.close();
+    input.close();//comment for Lab
   }
 
 }
