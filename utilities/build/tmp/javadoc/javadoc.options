@@ -1,9 +1,0 @@
--classpath '/home/cs_mjack040/gaps-basic-Bigjack228/utilities/build/classes/java/main:/home/cs_mjack040/gaps-basic-Bigjack228/utilities/build/resources/main:/home/cs_mjack040/gaps-basic-Bigjack228/list/build/classes/java/main'
--d '/home/cs_mjack040/gaps-basic-Bigjack228/utilities/build/docs/javadoc'
--doctitle 'utilities API'
--notimestamp 
--quiet 
--windowtitle 'utilities API'
-'/home/cs_mjack040/gaps-basic-Bigjack228/utilities/src/main/java/gaps/basic/Bigjack228/utilities/JoinUtils.java'
-'/home/cs_mjack040/gaps-basic-Bigjack228/utilities/src/main/java/gaps/basic/Bigjack228/utilities/SplitUtils.java'
-'/home/cs_mjack040/gaps-basic-Bigjack228/utilities/src/main/java/gaps/basic/Bigjack228/utilities/StringUtils.java'

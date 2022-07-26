@@ -1,3 +1,0 @@
-gaps/basic/Bigjack228/list/LinkedList.java
- gaps.basic.Bigjack228.list.LinkedList
- gaps.basic.Bigjack228.list.LinkedList$Node

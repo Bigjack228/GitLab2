@@ -1,7 +1,0 @@
--classpath '/home/cs_mjack040/gaps-basic-Bigjack228/list/build/classes/java/main:/home/cs_mjack040/gaps-basic-Bigjack228/list/build/resources/main'
--d '/home/cs_mjack040/gaps-basic-Bigjack228/list/build/docs/javadoc'
--doctitle 'list API'
--notimestamp 
--quiet 
--windowtitle 'list API'
-'/home/cs_mjack040/gaps-basic-Bigjack228/list/src/main/java/gaps/basic/Bigjack228/list/LinkedList.java'

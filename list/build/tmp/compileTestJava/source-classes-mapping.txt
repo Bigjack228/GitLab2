@@ -1,2 +1,0 @@
-gaps/basic/Bigjack228/list/LinkedListTest.java
- gaps.basic.Bigjack228.list.LinkedListTest

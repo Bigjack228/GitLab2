@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"gaps.basic.Bigjack228.utilities","c":"StringUtils","l":"join(LinkedList)","url":"join(gaps.basic.Bigjack228.list.LinkedList)"},{"p":"gaps.basic.Bigjack228.utilities","c":"StringUtils","l":"split(String)","url":"split(java.lang.String)"},{"p":"gaps.basic.Bigjack228.utilities","c":"StringUtils","l":"StringUtils()","url":"%3Cinit%3E()"}]
