@@ -5,7 +5,7 @@
 plugins {
     id 'gaps.basic.Bigjack228.java-application-conventions'
 
-    id "project-report"
+    id "project-report"//new
 }
 
 dependencies {
