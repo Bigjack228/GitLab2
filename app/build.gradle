@@ -17,16 +17,16 @@ application {
     mainClass = 'gaps.basic.Bigjack228.app.App'
 }
 
-task reports (dependsOn: [''test", ''javadoc''])
+task reports (dependsOn: [''test'', ''javadoc''])
 {
-    description "Generate all reports."
+    description ''Generate all reports.''
 }
 
 task deployReports (type: Copy)
 {
-    dependsOn "reports"
+    dependsOn ''reports''
 
-    from "build/docs"
+    from ''build/docs''
     into "build/tmp/https://bigjack228.github.io/GitLab2/"
 
     description "Copy Javadoc output into \https://bigjack228.github.io/GitLab2/directory."
