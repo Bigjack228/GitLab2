@@ -20,7 +20,7 @@ application {
 task reports (dependsOn: [
     'test',
      'javadoc'])
-{
+;{
     description ''Generate all reports.''
 }
 
