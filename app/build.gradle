@@ -22,11 +22,11 @@ application {
 }
 
 task reports (dependsOn: [
-    ''test'',
+    'test',
     'javadoc'])
 {
     description ''Generate all reports.''
-
+}
 
 task deployReports (type: Copy)
 {
