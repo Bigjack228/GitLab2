@@ -22,7 +22,7 @@ task reports (dependsOn: []
     'javadoc'])
 {
     description ''Generate all reports.''
-}*/
+
 
 task deployReports (type: Copy)
 {
@@ -38,4 +38,4 @@ task deployReports (type: Copy)
 
     description "Copy all reports into \https://bigjack228.github.io/GitLab2/directory."
   
-}
+}*/
