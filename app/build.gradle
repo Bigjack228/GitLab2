@@ -17,9 +17,9 @@ application {
     mainClass = 'gaps.basic.Bigjack228.app.App'
 }
 
-task reports (dependsOn: [
+task reports (dependsOn: 
     'test',
-    'javadoc'])
+    'javadoc')
 {
     description ''Generate all reports.''
 }
