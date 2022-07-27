@@ -21,6 +21,13 @@ application {
     mainClass = 'gaps.basic.Bigjack228.app.App'
 }
 
+task reports(dependsOn: [
+    "test",
+    "javadoc"])
+{
+    description "Generate all reports and documentation for this project."
+}
+
 task deployReports (type: Copy)
 {
     dependsOn ''reports''
