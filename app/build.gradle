@@ -17,12 +17,11 @@ application {
 
 task reports(dependsOn: [
     "test",
-    "javadoc"])
-{
-    description "Generate all reports"
+    "javadoc"]){
+    description "Generate all reports."
 }
 
-task deployReports(tpe: Copy)
+task deployReports(type: Copy)
 {
     dependsOn "reports"
 
