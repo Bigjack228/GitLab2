@@ -14,7 +14,7 @@ application {
     // Define the main class for the application.
     mainClass = 'gaps.basic.Bigjack228.app.App'
 }
-/*
+
 task reports(dependsOn: [
     "test",
     "javadoc"])
@@ -36,4 +36,4 @@ task deployReports(tpe: Copy)
 
     description "Copy all reports into \https://bigjack228.github.io/GitLab2/directory."
   
-}*/
+}
