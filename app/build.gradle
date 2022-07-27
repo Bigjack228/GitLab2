@@ -21,7 +21,7 @@ application {
     mainClass = 'gaps.basic.Bigjack228.app.App'
 }
 
- task reports(dependsOn: [
+/* task reports(dependsOn: [
     "test",
     "javadoc"])
 {
@@ -42,4 +42,4 @@ task deployReports (type: Copy)
 
     description "Copy all reports into \https://bigjack228.github.io/GitLab2/directory."
   
-}
+}*/
