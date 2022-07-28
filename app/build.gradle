@@ -38,7 +38,7 @@ task deployReports (type: Copy)
 
     from "build/reports"
     into "build/tmp/https://bigjack228.github.io/GitLab2/"
-
+    {
     description "Copy all reports into https://bigjack228.github.io/GitLab2/directory."
-  
+    }
 }
