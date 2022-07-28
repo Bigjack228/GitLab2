@@ -23,7 +23,7 @@ task reports(dependsOn: [
 }
 
 task deployReports (type: Copy)
-{
+{->
     dependsOn ''reports''
 
     from ''build/docs''
