@@ -3,9 +3,9 @@
  */
 
 plugins {
-    id ''java''
+    id 'java'
 
-    id ''apllicastion''
+    id 'application'
 
     id 'gaps.basic.Bigjack228.java-application-conventions'
 
