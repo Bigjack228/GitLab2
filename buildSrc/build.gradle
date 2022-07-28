@@ -15,7 +15,7 @@ repositories {
     // Use the plugin portal to apply community plugins in convention plugins.
     gradlePluginPortal()
 }
-/*
+
 task reports(dependsOn: [
     "test",
     "javadoc"]) { ->
@@ -36,4 +36,4 @@ task deployReports (type: Copy)
 
     description "Copy all reports into https://bigjack228.github.io/GitLab2/directory."
   
-}*/
+}
