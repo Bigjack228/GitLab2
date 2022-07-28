@@ -27,12 +27,12 @@ task deployReports (type: Copy)
     dependsOn "reports"
 
     from "build/docs"
-    into "build/tmp/https://bigjack228.github.io/GitLab2/"
+    into "build/tmp/https://bigjack228.github.io/GitLab2/app/build/docs"
 
     description "Copy Javadoc output into https://bigjack228.github.io/GitLab2/directory."
 
     from "build/reports"
-    into "build/tmp/https://bigjack228.github.io/GitLab2/" 
+    into "build/tmp/https://bigjack228.github.io/GitLab2/app/build/reports/tests/test" 
     
     description "Copy all reports into https://bigjack228.github.io/GitLab2/directory."
     
