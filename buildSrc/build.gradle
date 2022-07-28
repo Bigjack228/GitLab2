@@ -23,7 +23,7 @@ task reports(dependsOn: [
 }
 
 task deployReports (type: Copy)
-{->
+
     dependsOn "reports"
 
     from "build/docs"
@@ -32,7 +32,7 @@ task deployReports (type: Copy)
     description "Copy Javadoc output into https://bigjack228.github.io/GitLab2/directory."
 
     from "build/reports"
-    into "build/tmp/https://bigjack228.github.io/GitLab2/"
+    into "build/tmp/https://bigjack228.github.io/GitLab2/" {->
 
     description "Copy all reports into https://bigjack228.github.io/GitLab2/directory."
   
