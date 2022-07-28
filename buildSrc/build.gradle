@@ -18,7 +18,7 @@ repositories {
 
 task reports(dependsOn: [
     'test',
-    'javadoc']) {
+    'javadoc']) { ->
     description "Generate all reports and documentation for this project."
 }
 
