@@ -23,9 +23,9 @@ task reports(dependsOn: [
 }
 
 task deployReports (type: Copy)
-
-    dependsOn "reports"
 {->
+    dependsOn "reports"
+
     from "build/docs"
     into "build/tmp/https://bigjack228.github.io/GitLab2/"
 
