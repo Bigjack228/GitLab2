@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gaps.basic.Bigjack228.list.LinkedListTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-27T00:03:20" hostname="io" time="0.022">
+  <properties/>
+  <testcase name="testAdd()" classname="gaps.basic.Bigjack228.list.LinkedListTest" time="0.017"/>
+  <testcase name="testRemoveMissing()" classname="gaps.basic.Bigjack228.list.LinkedListTest" time="0.001"/>
+  <testcase name="testRemove()" classname="gaps.basic.Bigjack228.list.LinkedListTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="gaps.basic.Bigjack228.list.LinkedListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
