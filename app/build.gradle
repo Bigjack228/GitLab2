@@ -37,7 +37,7 @@ task deployReports (type: Copy)
     description "Copy Javadoc output into https://bigjack228.github.io/GitLab2/directory."
 
     from "build/reports"
-    into "docs/https://bigjack228.github.io/GitLab2/"
+    into "reports/https://bigjack228.github.io/GitLab2/"
     
     description "Copy all reports into https://bigjack228.github.io/GitLab2/directory."
     
