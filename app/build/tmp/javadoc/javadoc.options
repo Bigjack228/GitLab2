@@ -1,8 +1,0 @@
--classpath '/home/cs_mjack040/gitHubWebPage/GitLab2/app/build/classes/java/main:/home/cs_mjack040/gitHubWebPage/GitLab2/app/build/resources/main:/home/cs_mjack040/gitHubWebPage/GitLab2/utilities/build/classes/java/main:/home/cs_mjack040/gitHubWebPage/GitLab2/list/build/classes/java/main'
--d '/home/cs_mjack040/gitHubWebPage/GitLab2/app/build/docs/javadoc'
--doctitle 'app API'
--notimestamp 
--quiet 
--windowtitle 'app API'
-'/home/cs_mjack040/gitHubWebPage/GitLab2/app/src/main/java/gaps/basic/Bigjack228/app/App.java'
-'/home/cs_mjack040/gitHubWebPage/GitLab2/app/src/main/java/gaps/basic/Bigjack228/app/MessageUtils.java'
