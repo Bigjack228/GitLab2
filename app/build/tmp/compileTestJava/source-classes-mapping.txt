@@ -1,2 +1,0 @@
-gaps/basic/Bigjack228/app/MessageUtilsTest.java
- gaps.basic.Bigjack228.app.MessageUtilsTest
